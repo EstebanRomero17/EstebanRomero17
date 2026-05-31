@@ -92,7 +92,7 @@ I'm passionate about bridging the gap between **industrial engineering** and **D
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpODQ4OG92ZDVmanUwa25pbWYwamF6MG9wd3NpdDNlNjh5aWZ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 <br/><br/>
 
