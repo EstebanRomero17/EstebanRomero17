@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0d2550,60:1a4080,100:2563a8&height=220&section=header&text=Esteban%20Romero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Mechanical%20Engineer%20%7C%20Data%20Scientist%20%7C%20Asset%20Management&descAlignY=60&descSize=17&descColor=c9deff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a1a,100:2a2a2a&height=220&section=header&text=Hi,%20I'm%20Henry%20Esteban%20Romero%20Ramírez&fontSize=32&fontColor=e0e0e0&animation=twinkling&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=65&descSize=16&descColor=a0a0a0" width="100%"/>
 
 </div>
 
@@ -8,31 +8,19 @@
 
 ## 👋 About Me
 
-Hi! I'm **Henry Esteban Romero Ramírez** — Mechanical Engineer and specialist in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**.
+I'm a **Mechanical Engineer** specialized in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**.
 
-I'm passionate about bridging the gap between **industrial engineering** and **Data Science & Machine Learning** — applying advanced analytics to predictive maintenance, asset reliability, and operational optimization.
-
-> *"The most powerful insight is when domain knowledge meets data intelligence."*
+I'm passionate about learning new things and applying my engineering knowledge — and beyond — to **real-world problems** using data, intelligent systems, and emerging AI technologies. I believe that the most powerful solutions come from combining domain expertise with modern analytical tools.
 
 ---
 
-## 🎯 What I'm Looking For
+## 💪 What I Bring to the Table
 
-- Apply **Machine Learning & AI** to real-world predictive maintenance and industrial reliability challenges.
-- Build **data-driven solutions** that optimize physical asset management and reduce operational costs.
-- Collaborate on projects at the intersection of **mechanical engineering** and **data science**.
-- Grow into **Data Scientist** roles focused on industry, manufacturing, energy, or infrastructure.
-- Help bridge the gap between traditional engineering and the new capabilities of **applied AI**.
-
----
-
-## 💪 Strengths
-
-- 🔩 **Strong engineering foundation**: I understand the physical processes behind the data — not just the numbers.
-- 🧠 **Analytical & systemic thinking**: trained to diagnose, optimize, and make decisions under uncertainty.
-- 📊 **Business + data mindset**: ability to translate technical problems into data-based solutions with real impact.
-- 🔄 **Unique hybrid profile**: the combination of Mechanical Engineering + Asset Management + Data Science is rare and highly valued.
-- 📚 **Continuous learner**: currently in a master's program, expanding skills in ML, neural networks, and intelligent systems.
+- 🔩 **Mechanical Engineering knowledge** with a strong background in design, renewable energies, thermodynamics, fluid transport, and industrial maintenance.
+- 📊 **Data analytics skills** in data processing, exploratory analysis, visualization, and building predictive models.
+- 🔄 **Hybrid profile**: I work comfortably at the intersection of engineering and data science — translating physical systems into data-driven insights.
+- 🤖 **Growing expertise** in Machine Learning and Deep Learning applied to industrial and real-world challenges.
+- 📚 **Lifelong learner**: I enjoy stepping into unfamiliar fields and finding connections between disciplines — that's where the most interesting problems live.
 
 ---
 
@@ -59,17 +47,17 @@ I'm passionate about bridging the gap between **industrial engineering** and **D
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF3333?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 **Knowledge Areas:**  
-`Predictive Maintenance` · `Asset Management (ISO 55000)` · `Reliability & RCM` · `Machine Learning` · `Deep Learning` · `Time Series` · `Optimization`
+`Predictive Maintenance` · `Asset Management (ISO 55000)` · `Reliability & RCM` · `Renewable Energy` · `Thermodynamics` · `Fluid Transport` · `Machine Learning` · `Deep Learning` · `Time Series Analysis` · `Anomaly Detection` · `Data Pipelines`
 
 ---
 
 ## 🚀 I Like to Build
 
-- 🤖 **Predictive maintenance models** that detect failures before they happen — combining sensor data, signal processing, and ML algorithms.
-- 📊 **Real-time reliability dashboards** that turn raw operational data into clear, actionable insights for decision-makers.
-- 🧩 **End-to-end data pipelines** from raw industrial data ingestion to model deployment on cloud platforms.
-- 🔍 **Anomaly detection systems** for critical industrial assets using statistical methods and deep learning.
-- 🌐 **Data-powered applications** that bring intelligent automation to maintenance and operations teams.
+- 🤖 **Predictive maintenance models** — combining sensor data, signal processing, and ML to detect failures before they happen.
+- 📊 **Real-time reliability dashboards** — turning raw operational data into clear, actionable insights for decision-makers.
+- 🧩 **End-to-end data pipelines** — from raw industrial data ingestion all the way to cloud-deployed models.
+- 🔍 **Anomaly detection systems** — for critical industrial assets using statistical methods and deep learning.
+- 🌐 **Data-powered applications** — bringing intelligent automation to maintenance and operations teams.
 
 ---
 
@@ -87,15 +75,22 @@ I'm passionate about bridging the gap between **industrial engineering** and **D
 
 <div align="center">
 
-*The most exciting thing about knowledge is wandering into unfamiliar territory and falling in love with it —*  
-*a constant metamorphosis, always becoming something new.*
+<br/>
+
+> *"The more I learn, the more I realize how much I don't know."*
+> — **Albert Einstein**
 
 <br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpODQ4OG92ZDVmanUwa25pbWYwamF6MG9wd3NpdDNlNjh5aWZ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+*That's exactly what drives me — every new field I step into reminds me that knowledge has no borders,*
+*and that the most rewarding journeys begin where your expertise ends.*
+
+<br/>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwOXE1Z205ZG9wdnQyOWJpZXpqazB2em5tbzEwam43Z3BqMGk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="360" alt="coding gif"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563a8,40:1a4080,70:0d2550,100:0a1628&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2a2a2a,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
