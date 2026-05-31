@@ -1,40 +1,38 @@
-# EstebanRomero
 <div align="center">
 
-<!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2838,100:1e3a5f&height=200&section=header&text=Henry%20Romero&fontSize=50&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Data%20Scientist%20%7C%20Asset%20Management&descAlignY=55&descSize=18&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0d2550,60:1a4080,100:2563a8&height=220&section=header&text=Esteban%20Romero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Mechanical%20Engineer%20%7C%20Data%20Scientist%20%7C%20Asset%20Management&descAlignY=60&descSize=17&descColor=c9deff" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre mí
+## 👋 About Me
 
-Hola! Soy **Henry Esteban Romero Ramírez** — Ingeniero Mecánico, especialista en **Gerencia de Mantenimiento y Gestión de Activos**, actualmente cursando una **Maestría en Análisis de Datos y Sistemas Inteligentes**.
+Hi! I'm **Henry Esteban Romero Ramírez** — Mechanical Engineer and specialist in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**.
 
-Me apasiona conectar el mundo de la **ingeniería industrial** con el poder del **Data Science y Machine Learning**, aplicando analítica avanzada a problemas reales de mantenimiento predictivo, confiabilidad de activos y optimización de operaciones.
+I'm passionate about bridging the gap between **industrial engineering** and **Data Science & Machine Learning** — applying advanced analytics to predictive maintenance, asset reliability, and operational optimization.
 
-> *"Transformar datos de ingeniería en decisiones inteligentes."*
-
----
-
-## 🎯 Lo que busco
-
-- Aplicar **Machine Learning e Inteligencia Artificial** a problemas reales de mantenimiento predictivo y confiabilidad industrial.
-- Construir soluciones de **analítica de datos** que optimicen la gestión de activos físicos y reduzcan costos operacionales.
-- Colaborar en proyectos donde la **ingeniería mecánica** y la **ciencia de datos** se encuentren.
-- Crecer en roles de **Data Scientist** enfocados en industria, manufactura, energía o infraestructura.
-- Aportar al puente entre ingeniería tradicional y las nuevas capacidades de **IA aplicada**.
+> *"The most powerful insight is when domain knowledge meets data intelligence."*
 
 ---
 
-## 💪 Fortalezas
+## 🎯 What I'm Looking For
 
-- 🔩 **Base sólida en ingeniería**: entiendo los procesos físicos detrás de los datos — no solo los números.
-- 🧠 **Pensamiento analítico y sistémico**: formado para diagnosticar, optimizar y tomar decisiones bajo incertidumbre.
-- 📊 **Visión de negocio + datos**: capacidad de traducir problemas técnicos en soluciones basadas en datos con impacto real.
-- 🔄 **Perfil híbrido único**: la combinación Ingeniería Mecánica + Gestión de Activos + Data Science es escasa y muy valorada.
-- 📚 **Aprendizaje continuo**: actualmente en maestría, ampliando capacidades en ML, redes neuronales y sistemas inteligentes.
+- Apply **Machine Learning & AI** to real-world predictive maintenance and industrial reliability challenges.
+- Build **data-driven solutions** that optimize physical asset management and reduce operational costs.
+- Collaborate on projects at the intersection of **mechanical engineering** and **data science**.
+- Grow into **Data Scientist** roles focused on industry, manufacturing, energy, or infrastructure.
+- Help bridge the gap between traditional engineering and the new capabilities of **applied AI**.
+
+---
+
+## 💪 Strengths
+
+- 🔩 **Strong engineering foundation**: I understand the physical processes behind the data — not just the numbers.
+- 🧠 **Analytical & systemic thinking**: trained to diagnose, optimize, and make decisions under uncertainty.
+- 📊 **Business + data mindset**: ability to translate technical problems into data-based solutions with real impact.
+- 🔄 **Unique hybrid profile**: the combination of Mechanical Engineering + Asset Management + Data Science is rare and highly valued.
+- 📚 **Continuous learner**: currently in a master's program, expanding skills in ML, neural networks, and intelligent systems.
 
 ---
 
@@ -47,74 +45,41 @@ Me apasiona conectar el mundo de la **ingeniería industrial** con el poder del 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Datos & BI:**  
+**Data & BI:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Cloud & Infraestructura:**  
+**Cloud & Infrastructure:**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Ingeniería & Diseño:**  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+**Engineering & Design:**  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF3333?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
-**Áreas de conocimiento:**  
-`Mantenimiento Predictivo` · `Gestión de Activos (ISO 55000)` · `Confiabilidad & RCM` · `Machine Learning` · `Deep Learning` · `Series de Tiempo` · `Optimización`
+**Knowledge Areas:**  
+`Predictive Maintenance` · `Asset Management (ISO 55000)` · `Reliability & RCM` · `Machine Learning` · `Deep Learning` · `Time Series` · `Optimization`
 
 ---
 
-## 📚 Lo que estoy aprendiendo
+## 🚀 I Like to Build
 
-- 🤖 **Deep Learning**: redes neuronales aplicadas a señales industriales y series de tiempo
-- 🔍 **MLOps**: despliegue y monitoreo de modelos en producción
-- ☁️ **Google Cloud Platform**: BigQuery, Vertex AI, pipelines de datos
-- 📉 **Mantenimiento predictivo con ML**: detección de anomalías, clasificación de fallas, RUL estimation
-- 📊 **Estadística avanzada**: inferencia bayesiana, modelos probabilísticos
-
----
-
-## 🚀 Lo que aspiro construir
-
-- Modelos de **mantenimiento predictivo** que prevengan fallas antes de que ocurran
-- Dashboards de **confiabilidad en tiempo real** conectando sensores con analítica avanzada
-- Soluciones de **optimización de activos** que reduzcan costos de ciclo de vida
-- Proyectos **open-source** que conecten ingeniería industrial con Data Science
-- Una carrera en la intersección de **industria 4.0 e inteligencia artificial**
+- 🤖 **Predictive maintenance models** that detect failures before they happen — combining sensor data, signal processing, and ML algorithms.
+- 📊 **Real-time reliability dashboards** that turn raw operational data into clear, actionable insights for decision-makers.
+- 🧩 **End-to-end data pipelines** from raw industrial data ingestion to model deployment on cloud platforms.
+- 🔍 **Anomaly detection systems** for critical industrial assets using statistical methods and deep learning.
+- 🌐 **Data-powered applications** that bring intelligent automation to maintenance and operations teams.
 
 ---
 
-## 🧭 Principios que me guían
-
-- Los datos sin contexto de ingeniería pueden llevar a conclusiones equivocadas — el dominio importa.
-- Un buen modelo es el que se puede explicar, mantener y mejorar.
-- La confiabilidad no es un accidente; se diseña, se mide y se optimiza.
-
----
-
-## 📈 Mis Stats
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&background=0d1117&border=30363d&ring=4fc3f7&fire=ff6b35&currStreakLabel=4fc3f7)](https://git.io/streak-stats)
-
-[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fc3f7)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-henry--romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-tucorreo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry%20Esteban%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-esteban-romero-ramírez-657867264)
+[![Gmail](https://img.shields.io/badge/Email-henryromeroram17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henryromeroram17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EstebanRomero17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRomero17)
 
 </div>
 
@@ -122,11 +87,15 @@ Me apasiona conectar el mundo de la **ingeniería industrial** con el poder del 
 
 <div align="center">
 
-*Ingeniero Mecánico aprendiendo a hablar el idioma de los datos — un modelo a la vez.*
+*The most exciting thing about knowledge is wandering into unfamiliar territory and falling in love with it —*  
+*a constant metamorphosis, always becoming something new.*
 
-<!-- GIF animado al final -->
+<br/>
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:1b2838,100:0d1117&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563a8,40:1a4080,70:0d2550,100:0a1628&height=120&section=footer" width="100%"/>
 
 </div>
