@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1c1c1c,100:2e2e2e&height=220&section=header&text=Hi,%20I'm%20Esteban%20Romero&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=63&descSize=16&descColor=7eb8f7" width="100%"/>
+<img src="https://raw.githubusercontent.com/EstebanRomero17/EstebanRomero17/main/El txto del párrafo.png" width="100%"/>
 
 </div>
 
