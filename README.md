@@ -1,36 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2a2a2a&height=220&section=header&text=Hi,%20I'm%20Esteban%20Romero&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=63&descSize=16&descColor=c0c0c0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2a2a2a&height=220&section=header&text=Hi,%20I'm%20Esteban%20Romero&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=63&descSize=16&descColor=c0c0c0" width="100%"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-I'm a **Mechanical Engineer** specialized in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**.
-
-I'm passionate about learning new things and applying engineering knowledge — and beyond — to **real-world problems** using data, intelligent systems, and emerging AI technologies.
+I'm a **Mechanical Engineer** specialized in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**. I'm passionate about learning new things and applying engineering knowledge to **real world problems** using data, intelligent systems, and emerging AI technologies.
 
 ---
 
-## 💪 Strengths
+## ✦ Skills & Mindset
 
-**1. 🔩 Mechanical Engineering Foundation**  
-Solid background in mechanical design, renewable energies, thermodynamics, fluid transport, and industrial maintenance — I understand the physical systems behind the data, not just the numbers.
+🔩 **Mechanical Engineering ->** Design, renewable energy, thermodynamics, fluid transport, and industrial maintenance.
 
-**2. 📊 Data Science & Intelligent Systems**  
-Skilled in the full data journey: statistical analysis and predictive modeling, data processing and visualization, machine learning and deep learning, time series analysis, NLP, computer vision, big data pipelines, optimization algorithms, and cloud-based ML deployment (MLOps). Data isn't just numbers — it's decisions waiting to be made.
+📊 **Data Science ->** Statistical modeling, ML & deep learning, NLP, computer vision, time series, BigData, MLOps, and data visualization.
 
-**3. 🔄 Hybrid Profile**  
-I work naturally at the intersection of engineering and data science. This cross-disciplinary perspective lets me frame better problems, build more meaningful models, and deliver solutions that actually work in industrial contexts.
+🔄 **Hybrid profile ->** I bridge physical systems and data-driven thinking naturally.
 
-**4. 🚀 Always Forward**  
-Genuinely curious and committed to staying at the edge of what's new — whether it's a new framework, a different industry, or an unfamiliar problem. I believe the best learning happens outside your comfort zone.
+🚀 **Always learning ->** Drawn to new technologies and unfamiliar fields. That's where the interesting problems live.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack 
 
 **Data Science & ML:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,20 +47,20 @@ Genuinely curious and committed to staying at the edge of what's new — whether
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF3333?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 **Knowledge Areas:**  
-`Predictive Maintenance` · `Asset Management (ISO 55000)` · `Reliability & RCM` · `Renewable Energy` · `Thermodynamics` · `Fluid Transport` · `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Time Series` · `Big Data` · `MLOps` · `Optimization Algorithms`
+`Predictive Maintenance` · `Asset Management (ISO 55000)` · `Reliability & RCM` · `Renewable Energy` · `Thermodynamics` · `Fluid Transport` · `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Time Series` · `Big Data` · `MLOps` · `Optimization`
 
 ---
 
-## 🚀 What I Like to Build
+## What I Like to Build
 
-- 🤖 Predictive maintenance **models**
-- 📊 Operational **dashboards** for decision-making
-- 🧩 End-to-end **data pipelines**
-- 🌐 Data-powered **applications**
+- 🤖 Predictive maintenance models
+- 📊 Operational dashboards for decision-making
+- 🧩 End-to-end data pipelines
+- 🌐 Data-powered applications
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -82,15 +76,15 @@ Genuinely curious and committed to staying at the edge of what's new — whether
 
 <br/>
 
-> *"The more I learn, the more I realize how much I don't know."*  
-> — **Albert Einstein**
-
-<br/>
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpODQ4OG92ZDVmanUwa25pbWYwamF6MG9wd3NpdDNlNjh5aWZ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="360" alt="coding gif"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
 
+> *"The more I learn, the more I realize how much I don't know."*  
+> — **Albert Einstein**
+<br/>
 </div>
+
+---
