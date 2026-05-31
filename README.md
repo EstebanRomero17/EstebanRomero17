@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a1a,100:2a2a2a&height=220&section=header&text=Hi,%20I'm%20Henry%20Esteban%20Romero%20Ramírez&fontSize=32&fontColor=e0e0e0&animation=twinkling&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=65&descSize=16&descColor=a0a0a0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:1a1a1a,100:2a2a2a&height=200&section=header&text=Hi,%20I'm%20Esteban%20Romero&fontSize=38&fontColor=e0e0e0&animation=fadeIn&fontAlignY=55&desc=Mechanical%20Engineer%20%7C%20Maintenance%20Specialist%20%7C%20Data%20Science%20Student&descAlignY=75&descSize=16&descColor=a0a0a0" width="100%"/>
 
 </div>
 
@@ -10,17 +10,16 @@
 
 I'm a **Mechanical Engineer** specialized in **Maintenance Management & Asset Management**, currently pursuing a **Master's in Data Analysis and Intelligent Systems**.
 
-I'm passionate about learning new things and applying my engineering knowledge — and beyond — to **real-world problems** using data, intelligent systems, and emerging AI technologies. I believe that the most powerful solutions come from combining domain expertise with modern analytical tools.
+I'm passionate about learning new things and applying engineering knowledge — and beyond — to **real-world problems** using data, intelligent systems, and emerging AI technologies.
 
 ---
 
-## 💪 What I Bring to the Table
+## 💪 Strengths
 
-- 🔩 **Mechanical Engineering knowledge** with a strong background in design, renewable energies, thermodynamics, fluid transport, and industrial maintenance.
-- 📊 **Data analytics skills** in data processing, exploratory analysis, visualization, and building predictive models.
-- 🔄 **Hybrid profile**: I work comfortably at the intersection of engineering and data science — translating physical systems into data-driven insights.
-- 🤖 **Growing expertise** in Machine Learning and Deep Learning applied to industrial and real-world challenges.
-- 📚 **Lifelong learner**: I enjoy stepping into unfamiliar fields and finding connections between disciplines — that's where the most interesting problems live.
+1. 🔩 **Mechanical Engineering knowledge** — solid background in design, renewable energies, thermodynamics, fluid transport, and industrial maintenance.
+2. 📊 **Data for business** — processing data, building visualizations, generating data-driven decisions, and developing predictive models.
+3. 🔄 **Hybrid profile** — comfortable working at the intersection of engineering and data science, translating physical systems into analytical insights.
+4. 🚀 **Always learning** — keen interest in staying current with new technologies and AI, and continuously expanding into new disciplines.
 
 ---
 
@@ -51,13 +50,12 @@ I'm passionate about learning new things and applying my engineering knowledge �
 
 ---
 
-## 🚀 I Like to Build
+## 🚀 What I Like to Build
 
-- 🤖 **Predictive maintenance models** — combining sensor data, signal processing, and ML to detect failures before they happen.
-- 📊 **Real-time reliability dashboards** — turning raw operational data into clear, actionable insights for decision-makers.
-- 🧩 **End-to-end data pipelines** — from raw industrial data ingestion all the way to cloud-deployed models.
-- 🔍 **Anomaly detection systems** — for critical industrial assets using statistical methods and deep learning.
-- 🌐 **Data-powered applications** — bringing intelligent automation to maintenance and operations teams.
+- 🤖 Predictive maintenance **models**
+- 📊 Operational **dashboards** for decision-making
+- 🧩 End-to-end **data pipelines**
+- 🌐 Data-powered **applications**
 
 ---
 
@@ -82,15 +80,10 @@ I'm passionate about learning new things and applying my engineering knowledge �
 
 <br/>
 
-*That's exactly what drives me — every new field I step into reminds me that knowledge has no borders,*
-*and that the most rewarding journeys begin where your expertise ends.*
-
-<br/>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwOXE1Z205ZG9wdnQyOWJpZXpqazB2em5tbzEwam43Z3BqMGk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="360" alt="coding gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpODQ4OG92ZDVmanUwa25pbWYwamF6MG9wd3NpdDNlNjh5aWZ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="360" alt="coding gif"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2a2a2a,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:2a2a2a,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
